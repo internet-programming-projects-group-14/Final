@@ -8,15 +8,9 @@ The "Vital Signal" Quality of Experience (QoE) mobile application addresses the 
 
 ## Repository Contents
 
-*   **Presentation:** Our final presentation slides are located in .
 *   **Source Code:** The link to the complete source code for our project can be found in this repository. You can browse the code directly here: [`https://github.com/internet-programming-projects-group-14/source-code`].
 *   **Project Report:** For a detailed explanation of our project, including its design, implementation, and evaluation, please refer to our project report
 
-## APK Download
-
-You can download the Android Application Package (APK) for our project from the following link:
-
-[INSERT APK DOWNLOAD URL HERE]
 
 ---
 
